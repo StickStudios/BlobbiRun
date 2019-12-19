@@ -1,3 +1,3 @@
 # BlobbiRun
 .apk file is Android.
-.exe file is Windows.
+.zip file is Windows just run the Exe after extracting the Zip.
